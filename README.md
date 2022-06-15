@@ -1,3 +1,7 @@
 # Documentos
 
-Repositório com objetivo de guardar os documentos e imagens do projeto My Vet.
+Repositório com objetivo de guardar os documentos e imagens do projeto MyVet.
+
+## Resumo MyVet
+
+De acordo com o Euromonitor, empresa responsável por pesquisas nos mercados globais sobre setores, empresas, economia e consumidores, no Brasil existem cerca de 144,3 milhões de animais de estimação, entre eles cães, gatos, aves canoras e ornamentais, peixes ornamentais, entre outros. Com isso, o projeto MyVet tem como objetivo desenvolver um aplicativo para smartphones (celulares inteligentes), para auxiliar o intermédio entre tutores de animais de estimação e veterinários, acompanhamento da saúde dos animais de estimação e promovendo um centralizador para busca de serviços veterinários. Utilizando para a Web API o Java, com os frameworks: Spring Boot para disponibilidade da API, Spring Data para a comunicação com o banco de dados relacional MySQL e o Spring Security para segurança do tráfego de dados; e para a produção do aplicativo será utilizado o React Native e Expo, sendo a biblioteca React Native utilizada para desenvolvimento de aplicativos que os tutores e veterinários irão manusear nos sistemas operacionais iOS e Android de forma nativa; e a biblioteca Expo que é uma ferramenta para desenvolvimento mobile com React Native, com objetivo de facilitar o desenvolvimento da aplicação, por meio de bibliotecas prontas de forma nativa; aumentando a produtividade de desenvolvimento do projeto. 
